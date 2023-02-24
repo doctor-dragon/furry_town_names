@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Furry Town Names
+STR_GRF_DESCRIPTION :A pack of furry town names created for me and my mates.{} Your comedy milage may vary. {}{COPYRIGHT} Dragon Transport Co. 2023 
+STR_STYLES : Furry
